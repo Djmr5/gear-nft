@@ -1,0 +1,13 @@
+/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/debug/deps/gcore-4148716ac06a0fdc.rmeta: /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/lib.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/errors.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/exec.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/msg.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/prog.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/general.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/utils.rs
+
+/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/debug/deps/libgcore-4148716ac06a0fdc.rlib: /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/lib.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/errors.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/exec.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/msg.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/prog.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/general.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/utils.rs
+
+/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/debug/deps/gcore-4148716ac06a0fdc.d: /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/lib.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/errors.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/exec.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/msg.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/prog.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/general.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/utils.rs
+
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/lib.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/errors.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/exec.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/msg.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/prog.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/general.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/78dfa07/gcore/src/utils.rs:

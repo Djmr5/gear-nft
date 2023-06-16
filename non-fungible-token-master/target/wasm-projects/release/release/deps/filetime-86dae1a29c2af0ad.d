@@ -1,0 +1,10 @@
+/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/wasm-projects/release/release/deps/filetime-86dae1a29c2af0ad.rmeta: /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/lib.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/mod.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/utimes.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/macos.rs
+
+/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/wasm-projects/release/release/deps/libfiletime-86dae1a29c2af0ad.rlib: /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/lib.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/mod.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/utimes.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/macos.rs
+
+/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/wasm-projects/release/release/deps/filetime-86dae1a29c2af0ad.d: /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/lib.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/mod.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/utimes.rs /Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/macos.rs
+
+/Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/lib.rs:
+/Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/mod.rs:
+/Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/utimes.rs:
+/Users/ricky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/filetime-0.2.21/src/unix/macos.rs:

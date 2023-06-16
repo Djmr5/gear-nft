@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/wasm-projects/debug/wasm32-unknown-unknown/debug/build/typenum-00fcd00adb97d567/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/wasm-projects/debug/wasm32-unknown-unknown/debug/build/typenum-00fcd00adb97d567/out/op.rs

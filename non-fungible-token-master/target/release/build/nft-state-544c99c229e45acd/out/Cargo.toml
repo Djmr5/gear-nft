@@ -1,0 +1,28 @@
+[dependencies.orig-project]
+default-features = false
+package = "nft-state"
+path = "/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/state"
+
+[features]
+binary-vendor = ["orig-project/binary-vendor"]
+
+[lib]
+crate-type = ["cdylib"]
+name = "nft_state"
+
+[package]
+edition = "2021"
+name = "nft-state-wasm"
+version = "0.2.11"
+
+[profile.dev]
+opt-level = "s"
+
+[profile.production]
+inherits = "release"
+
+[profile.release]
+lto = true
+opt-level = "s"
+
+[workspace]
