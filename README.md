@@ -1,1 +1,1 @@
-# Gear-NFT
+# Gear-DNS
