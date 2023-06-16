@@ -1,1 +1,1 @@
-# gear-nft
+# Gear-NFT
