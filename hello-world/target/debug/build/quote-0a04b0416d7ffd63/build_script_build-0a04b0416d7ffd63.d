@@ -1,5 +1,0 @@
-/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/debug/build/quote-0a04b0416d7ffd63/build_script_build-0a04b0416d7ffd63: /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/build.rs
-
-/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/debug/build/quote-0a04b0416d7ffd63/build_script_build-0a04b0416d7ffd63.d: /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/build.rs
-
-/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/build.rs:

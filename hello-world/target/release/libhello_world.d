@@ -1,1 +1,0 @@
-/Volumes/KINGSTON\ 1/Programación\ en\ Rust/hello-world/target/release/libhello_world.rlib: /Volumes/KINGSTON\ 1/Programación\ en\ Rust/hello-world/build.rs /Volumes/KINGSTON\ 1/Programación\ en\ Rust/hello-world/src/lib.rs

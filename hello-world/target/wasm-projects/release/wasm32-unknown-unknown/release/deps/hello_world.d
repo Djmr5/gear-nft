@@ -1,5 +1,0 @@
-/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/release/wasm32-unknown-unknown/release/deps/hello_world.wasm: src/lib.rs
-
-/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/release/wasm32-unknown-unknown/release/deps/hello_world.d: src/lib.rs
-
-src/lib.rs:
