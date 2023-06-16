@@ -1,0 +1,24 @@
+[dependencies.orig-project]
+default-features = false
+package = 'hello-world'
+path = '/Volumes/KINGSTON 1/Programación en Rust/hello-world'
+
+[features]
+
+[lib]
+crate-type = ['cdylib']
+name = 'hello_world'
+
+[package]
+edition = '2021'
+name = 'hello-world-wasm'
+version = '1.0.0'
+[profile.dev]
+lto = true
+opt-level = 's'
+
+[profile.release]
+lto = true
+opt-level = 's'
+
+[workspace]

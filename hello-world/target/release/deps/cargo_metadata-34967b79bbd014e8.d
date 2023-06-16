@@ -1,0 +1,11 @@
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/release/deps/cargo_metadata-34967b79bbd014e8.rmeta: /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/lib.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/dependency.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/diagnostic.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/errors.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/messages.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/release/deps/libcargo_metadata-34967b79bbd014e8.rlib: /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/lib.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/dependency.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/diagnostic.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/errors.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/messages.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/release/deps/cargo_metadata-34967b79bbd014e8.d: /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/lib.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/dependency.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/diagnostic.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/errors.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/messages.rs
+
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/lib.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/dependency.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/diagnostic.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/errors.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.15.2/src/messages.rs:

@@ -1,0 +1,13 @@
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/gcore-c23c5e6e31752ca8.rmeta: /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/lib.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/error.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/exec.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/msg.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/prog.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/general.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/utils.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/libgcore-c23c5e6e31752ca8.rlib: /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/lib.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/error.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/exec.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/msg.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/prog.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/general.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/utils.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/gcore-c23c5e6e31752ca8.d: /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/lib.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/error.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/exec.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/msg.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/prog.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/general.rs /Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/utils.rs
+
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/lib.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/error.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/exec.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/msg.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/prog.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/general.rs:
+/Users/ricky/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/f6da967/gcore/src/utils.rs:

@@ -1,0 +1,12 @@
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/dlmalloc-e33f91cf9846a109.rmeta: /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/wasm.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/libdlmalloc-e33f91cf9846a109.rlib: /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/wasm.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/dlmalloc-e33f91cf9846a109.d: /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/wasm.rs
+
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/wasm.rs:

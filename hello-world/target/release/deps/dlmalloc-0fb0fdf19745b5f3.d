@@ -1,0 +1,12 @@
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/release/deps/dlmalloc-0fb0fdf19745b5f3.rmeta: /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/macos.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/release/deps/libdlmalloc-0fb0fdf19745b5f3.rlib: /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/macos.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/release/deps/dlmalloc-0fb0fdf19745b5f3.d: /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs /Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/macos.rs
+
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/lib.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/common.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlmalloc.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/dlverbose.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/global.rs:
+/Users/ricky/.cargo/git/checkouts/dlmalloc-rust-80f9ff98f4270acf/e76ae98/src/macos.rs:

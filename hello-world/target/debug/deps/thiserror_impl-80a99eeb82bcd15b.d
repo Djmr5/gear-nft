@@ -1,0 +1,12 @@
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/debug/deps/libthiserror_impl-80a99eeb82bcd15b.dylib: /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/Volumes/KINGSTON 1/Programación en Rust/hello-world/target/debug/deps/thiserror_impl-80a99eeb82bcd15b.d: /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs:
+/Users/ricky/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs:
