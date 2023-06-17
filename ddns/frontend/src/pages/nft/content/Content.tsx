@@ -59,7 +59,7 @@ function Content(props: Props) {
           <div className={detailsClassName}>
             <Card heading="Owner" text={ownerId} />
             {rarity && <Card heading="Rarity" text={rarity} />}
-            <Card heading="Description" text={description} />
+            <Card heading="IP Address" text={description} />
             {attributes && <Attributes attributes={attributes} />}
           </div>
           {isAnyApprovedAccount && (
