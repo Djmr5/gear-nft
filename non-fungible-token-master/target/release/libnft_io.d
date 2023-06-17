@@ -1,1 +1,0 @@
-/Users/ricky/Downloads/Programación\ en\ Rust/Gear-DNS/non-fungible-token-master/target/release/libnft_io.rlib: /Users/ricky/Downloads/Programación\ en\ Rust/Gear-DNS/non-fungible-token-master/io/src/lib.rs

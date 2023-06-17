@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/release/build/typenum-55bb8a90b11087f5/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ricky/Downloads/Programación en Rust/Gear-DNS/non-fungible-token-master/target/release/build/typenum-55bb8a90b11087f5/out/op.rs
