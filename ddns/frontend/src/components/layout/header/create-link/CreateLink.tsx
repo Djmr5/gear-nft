@@ -12,7 +12,7 @@ function CreateLink() {
 
   return (
     <NavLink to="create" className={getClassName}>
-      Create DDNS
+      Create Domain
     </NavLink>
   );
 }
