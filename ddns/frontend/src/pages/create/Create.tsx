@@ -73,15 +73,15 @@ function Create() {
       <div className={styles.main}>
         <form className={styles.form} onSubmit={handleSubmit(onSubmit)}>
           <div className={styles.item}>
-            <Input label="Name" className={styles.input} {...register('name', { required: 'Name is required' })} />
+            <Input label="Domain" className={styles.input} {...register('name', { required: 'Domain is required' })} />
             <p className={styles.error}>{errors.name?.message}</p>
           </div>
 
           <div className={styles.item}>
-            <Textarea
+            <Input
               label="IP address"
               className={styles.input}
-              {...register('description', { required: 'Description is required' })}
+              {...register('description', { required: 'IP Address is required' })}
             />
             <p className={styles.error}>{errors.description?.message}</p>
           </div>
