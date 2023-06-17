@@ -1,9 +1,12 @@
-import { Button, FileInput, Input, Textarea } from '@gear-js/ui';
+import { Button, Checkbox, FileInput, Input, Textarea } from '@gear-js/ui';
 import { useAlert } from '@gear-js/react-hooks';
 import { useForm, useFieldArray } from 'react-hook-form';
 import { useEffect, useState } from 'react';
+import clsx from 'clsx';
+import plus from 'assets/images/form/plus.svg';
 import { useIPFS, useSendNFTMessage } from 'hooks';
 import { getMintDetails, getMintPayload } from 'utils';
+import { Attributes } from './attributes';
 import styles from './Create.module.scss';
 
 type AttributesValue = { key: string; value: string };
@@ -22,6 +25,7 @@ const validateImage = {
 
 function Create() {
   const { formState, control, register, handleSubmit, resetField, reset } = useForm<Values>({ defaultValues });
+  const { fields, append, remove } = useFieldArray({ control, name: 'attributes' });
   const { errors } = formState;
 
   const alert = useAlert();
@@ -30,6 +34,9 @@ function Create() {
 
   const [isAnyAttribute, setIsAnyAttribute] = useState(false);
   const [isRarity, setIsRarity] = useState(false);
+
+  const toggleAttributes = () => setIsAnyAttribute((prevValue) => !prevValue);
+  const toggleRarity = () => setIsRarity((prevValue) => !prevValue);
 
   useEffect(() => {
     resetField('attributes');
@@ -69,22 +76,45 @@ function Create() {
 
   return (
     <>
-      <h2 className={styles.heading}>Create NFT</h2>
+      <h2 className={styles.heading}>Create DDNS</h2>
       <div className={styles.main}>
         <form className={styles.form} onSubmit={handleSubmit(onSubmit)}>
           <div className={styles.item}>
-            <Input label="Domain" className={styles.input} {...register('name', { required: 'Domain is required' })} />
+            <Input label="Domain" className={styles.input} {...register('name', { required: 'Name is required' })} />
             <p className={styles.error}>{errors.name?.message}</p>
           </div>
 
           <div className={styles.item}>
-            <Input
-              label="IP address"
+            <Textarea
+              label="IP Address"
               className={styles.input}
-              {...register('description', { required: 'IP Address is required' })}
+              {...register('description', { required: 'Description is required' })}
             />
             <p className={styles.error}>{errors.description?.message}</p>
           </div>
+
+          <div className={clsx(styles.input, styles.checkboxWrapper)}>
+            <div className={styles.hidden}>
+              <Checkbox label="Attributes" checked={isAnyAttribute} onChange={toggleAttributes} />
+              {isAnyAttribute && <Button icon={plus} color="transparent" onClick={() => append(defaultAttributes)} />}
+              <p className={clsx(styles.error, styles.checkboxError)}>
+                {(errors.attributes?.[0]?.key || errors.attributes?.[0]?.value) && 'Enter attributes'}
+              </p>
+            </div>
+          </div>
+          {isAnyAttribute && <Attributes register={register} fields={fields} onRemoveButtonClick={remove} />}
+
+          <div className={clsx(styles.input, styles.checkboxWrapper)}>
+            <div className={styles.hidden}>
+              <Checkbox label="Rarity" checked={isRarity} onChange={toggleRarity} />
+              <p className={clsx(styles.error, styles.checkboxError)}>{errors.rarity?.message}</p>
+            </div>
+          </div>
+          {isRarity && (
+            <div className={styles.item}>
+              <Input label="Rarity" className={styles.input} {...register('rarity', { required: 'Enter rarity' })} />
+            </div>
+          )}
 
           <div className={styles.item}>
             <FileInput

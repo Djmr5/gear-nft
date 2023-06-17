@@ -1,3 +1,4 @@
+
 import { useState } from 'react';
 import { useNFTs, useOwnerNFTs, useApprovedNFTs } from 'hooks';
 import { InfoText, Loader } from 'components';
@@ -40,13 +41,13 @@ function Home() {
   return (
     <>
       <header className={styles.header}>
-        <h2 className={styles.heading}>NFTs</h2>
+        <h2 className={styles.heading}>Domains</h2>
         {account && <Filter list={FILTERS} value={filter} onChange={setFilter} />}
       </header>
       {isEachNftLoaded ? (
         <>
           {isAnyNft && <ul className={styles.list}>{NFTs}</ul>}
-          {!isAnyNft && <InfoText text="There are no NFTs at the moment." />}
+          {!isAnyNft && <InfoText text="There are no Domains at the moment." />}
         </>
       ) : (
         <Loader />

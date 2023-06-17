@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.11] - 2023-05-25
+### Changed
+- Update dependencies.
+- Pin gear crates to `#78dfa07`.
+
 ## [0.2.10] - 2023-04-26
 - Pin gear and substrate crates to concrete revisions
 
@@ -56,7 +61,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release.
 
-[Unreleased]: https://github.com/gear-dapps/non-fungible-token/compare/0.2.10...HEAD
+[Unreleased]: https://github.com/gear-dapps/non-fungible-token/compare/0.2.11...HEAD
+[0.2.11]: https://github.com/gear-dapps/non-fungible-token/compare/0.2.10...0.2.11
 [0.2.10]: https://github.com/gear-dapps/non-fungible-token/compare/0.2.9...0.2.10
 [0.2.9]: https://github.com/gear-dapps/non-fungible-token/compare/0.2.8...0.2.9
 [0.2.8]: https://github.com/gear-dapps/non-fungible-token/compare/0.2.7...0.2.8
